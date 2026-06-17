@@ -20,7 +20,7 @@
 
 ## 📱 What is GymBro?
 
-GymBro is a **personal gym tracking app** designed for one purpose: helping you get stronger, consistently. No social feeds, no fluff — just the tools you need to track your lifting sessions and protein intake.
+GymBro is a **personal gym tracking app** designed for one purpose: helping you get stronger, consistently. No social feeds, no fluff — just the tools you need to track your lifting sessions and protein intake. It also solves the problem of microplates (like 1.25 kgs) being unavailable in Indian gyms leading to plateaus in weight sensitive Barbell lifts like the Overhead Press & Bench Press, using rep-range based programming utilising Epley & Brzycki 1RM formulas. 
 
 ### Key Features
 
