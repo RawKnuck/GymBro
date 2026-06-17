@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# JDK (portable, too large for git)
+jdk/
+
+# Android build caches
+android/.gradle/
+android/app/build/
+android/build/
+android/capacitor-android/build/
+android/capacitor-cordova-android-plugins/build/
+android/codetrix-studio-capacitor-google-auth/build/
+android/.idea/
+*.iml
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Firebase local cache
+.firebase/
+
+# Antigravity / agent files
+.agents/
+
+# Original request (personal notes)
+ORIGINAL_REQUEST.md
+
+# Web source files (already hosted elsewhere)
+app.js
+index.html
+style.css
+build-dist.ps1

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "281335502659",
+    "project_id": "gymbro-tracker-bbed4",
+    "storage_bucket": "gymbro-tracker-bbed4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281335502659:android:15e1b7f46f59828fc381f6",
+        "android_client_info": {
+          "package_name": "com.raunakjalan.gymbro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281335502659-7a1m83mjuq2kiqmufnl2ipf9u91j90i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raunakjalan.gymbro",
+            "certificate_hash": "dbe6d98e2967b1f7be516645ea9eeb36c65a9032"
+          }
+        },
+        {
+          "client_id": "281335502659-2hui9anumrr1skbq8757rmuetqcdhuhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCTrGu02zja4gVhsOGJ2sX8aRcZsC-r-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281335502659-2hui9anumrr1skbq8757rmuetqcdhuhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

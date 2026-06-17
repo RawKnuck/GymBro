@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GymBro</string>
+    <string name="title_activity_main">GymBro</string>
+    <string name="package_name">com.raunakjalan.gymbro</string>
+    <string name="custom_url_scheme">com.raunakjalan.gymbro</string>
+    <string name="server_client_id">281335502659-2hui9anumrr1skbq8757rmuetqcdhuhe.apps.googleusercontent.com</string>
+</resources>

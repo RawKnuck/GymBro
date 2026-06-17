@@ -1,0 +1,13 @@
+{
+  "appId": "com.raunakjalan.gymbro",
+  "appName": "GymBro",
+  "webDir": "dist",
+  "plugins": {
+    "GoogleAuth": {
+      "scopes": ["profile", "email"],
+      "clientId": "281335502659-2hui9anumrr1skbq8757rmuetqcdhuhe.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": false,
+      "grantOfflineAccess": false
+    }
+  }
+}
