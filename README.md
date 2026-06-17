@@ -20,9 +20,15 @@
 
 ## 📱 What is GymBro?
 
-GymBro is a **personal gym tracking app** designed for one purpose: helping you get stronger, consistently. No social feeds, no fluff — just the tools you need to track your lifting sessions and protein intake. It also solves the problem of microplates (like 1.25 kgs) being unavailable in Indian gyms leading to plateaus in weight sensitive Barbell lifts like the Overhead Press & Bench Press, using rep-range based programming utilising Epley & Brzycki 1RM formulas. 
+GymBro is a minimalist, distraction-free training companion built for analytical lifters who value science over hype. Unlike generic trackers bloated with social feeds and advertisements, GymBro is engineered for one ultimate goal: **systematic progressive overload**. 
 
-This app is designed around the needs & problems of the developer of the app himself which he was facing, but checkout the app if you lift as well. 
+It was designed to solve real-world training constraints, focusing on:
+
+*   **Defeating the "No Microplates" Plateau:** Most Indian gyms lack microplates (like 1.25 kg plates), forcing you to make massive 5 kg jumps that stall progress on weight-sensitive barbell lifts like the Overhead Press and Bench Press. GymBro bypasses this by using rep-range auto-regulation. It advises weight increases only when you have systematically built the raw rep capacity to handle the next step.
+*   **Protein Anchoring > Calorie Obsession:** Say goodbye to the tedious chore of tracking every single calorie. GymBro centers its nutrition logic on *protein anchoring*—securing your protein intake target around daily food anchors to deliver 80% of your body composition results with 20% of the cognitive overhead.
+*   **Journal-Backed Progression Science:** Progression recommendations are mathematically guided by the Epley and Brzycki 1RM formulas, selecting the worst-case (lowest) estimate to guarantee adaptational safety.
+*   **Injury Prevention First:** Built-in neural buffers ensure you never lift beyond your current physical thresholds, keeping your joints healthy and your long-term training sustainable.
+*   **Laser-Focused & Analytical:** No distractions. Just pure, clean performance charts, trendlines, and data analytics for lifters who treat self-improvement like an engineering problem.
 
 ### Key Features
 
