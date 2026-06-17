@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RawKnuck69/GymBro/releases/tag/v1.0">
-    <img src="https://img.shields.io/badge/version-1.0-blue?style=flat-square" alt="Version 1.0">
+  <a href="https://github.com/RawKnuck/GymBro/releases/tag/v1.2">
+    <img src="https://img.shields.io/badge/version-1.2-blue?style=flat-square" alt="Version 1.2">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/platform-Android-green?style=flat-square" alt="Android">
@@ -57,11 +57,14 @@ It was designed to solve real-world training constraints, focusing on:
 
 ## 📥 Download
 
-Download the latest APK from the [Releases](https://github.com/RawKnuck69/GymBro/releases) page.
+Download the latest APK from the [Releases](https://github.com/RawKnuck/GymBro/releases) page.
 
 | Version | Date | Download |
 |---------|------|----------|
-| v1.0 | June 2026 | [gymbro-debug.apk](https://github.com/RawKnuck69/GymBro/releases/tag/v1.0) |
+| v1.2 | June 2026 | [gymbro_v1.2.apk](https://github.com/RawKnuck/GymBro/releases/download/v1.2/gymbro_v1.2.apk) |
+| v1.1.1 | June 2026 | [gymbro_v1.1.1.apk](https://github.com/RawKnuck/GymBro/releases/download/v1.1.1/gymbro_v1.1.1.apk) |
+| v1.1 | June 2026 | [gymbro_v1.1.apk](https://github.com/RawKnuck/GymBro/releases/download/v1.1/gymbro_v1.1.apk) |
+| v1.0 | June 2026 | [gymbro-debug.apk](https://github.com/RawKnuck/GymBro/releases/download/v1.0/gymbro-debug.apk) |
 
 ---
 
