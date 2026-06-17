@@ -43,10 +43,10 @@ It was designed to solve real-world training constraints, focusing on:
 - Lift-specific analytics with progression trends
 - Volume and intensity tracking
 
-🥩 **Protein Tracker**
-- Daily protein intake logging with customizable goals
-- Reminder system to stay on track
-- Meal-by-meal breakdown
+🥩 **Protein Anchor Tracker**
+- Daily protein anchor tracking
+- Don't worry about tracking the calories
+- With minimal effort get most of your gains
 
 ☁️ **Cloud Sync**
 - Google Sign-In for cross-device sync
