@@ -138,5 +138,5 @@ This is a personal project. All rights reserved.
 ---
 
 <p align="center">
-  Built with 💪 by <a href="https://github.com/RawKnuck69">Raunak Jalan</a>
+  Built with 💪 by <a href="https://github.com/RawKnuck">Raunak Jalan</a>
 </p>
