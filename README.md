@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RawKnuck/GymBro/releases/tag/v1.3">
-    <img src="https://img.shields.io/badge/version-1.3-blue?style=flat-square" alt="Version 1.3">
+  <a href="https://github.com/RawKnuck/GymBro/releases/tag/v1.3.1">
+    <img src="https://img.shields.io/badge/version-1.3.1-blue?style=flat-square" alt="Version 1.3.1">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/platform-Android-green?style=flat-square" alt="Android">
@@ -61,6 +61,7 @@ Download the latest APK from the [Releases](https://github.com/RawKnuck/GymBro/r
 
 | Version | Date | Download |
 |---------|------|----------|
+| v1.3.1 | June 2026 | [gymbro_v1.3.1.apk](https://github.com/RawKnuck/GymBro/releases/download/v1.3.1/gymbro_v1.3.1.apk) |
 | v1.3 | June 2026 | [gymbro_v1.3.apk](https://github.com/RawKnuck/GymBro/releases/download/v1.3/gymbro_v1.3.apk) |
 | v1.2.1 | June 2026 | [gymbro_v1.2.1.apk](https://github.com/RawKnuck/GymBro/releases/download/v1.2.1/gymbro_v1.2.1.apk) |
 | v1.2 | June 2026 | [gymbro_v1.2.apk](https://github.com/RawKnuck/GymBro/releases/download/v1.2/gymbro_v1.2.apk) |
