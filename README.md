@@ -51,7 +51,6 @@ It was designed to solve real-world training constraints, focusing on:
 ☁️ **Cloud Sync**
 - Google Sign-In for cross-device sync
 - Firebase-backed data storage
-- Guest mode for offline use
 
 ---
 
